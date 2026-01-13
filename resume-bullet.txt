@@ -1,0 +1,1 @@
+Developed a user onboarding API with Express and PostgreSQL using a clean layered architecture, achieving consistent data validation, secure persistence, and structured JSON responses for frontend integration.

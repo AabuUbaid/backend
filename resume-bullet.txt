@@ -1,1 +1,15 @@
-Developed a user onboarding API with Express and PostgreSQL using a clean layered architecture, achieving consistent data validation, secure persistence, and structured JSON responses for frontend integration.
+Built a user onboarding API using Express and PostgreSQL with a clean layered architecture (routes, controllers, services, repositories).
+
+Implemented consistent input validation and field-level checks to ensure data integrity.
+
+Utilized parameterized SQL queries for secure persistence and reduced injection risk.
+
+Produced structured JSON responses to streamline frontend integration workflows.
+
+Managed environment-specific configuration via .env for secure credential handling.
+
+Containerized local services for reproducible development and easier deployment.
+
+Verified API functionality through Postman/Thunder Client test scenarios.
+
+Designed the architecture for extensibility, supporting future features like auth and pagination.
